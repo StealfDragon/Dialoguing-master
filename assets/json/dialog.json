@@ -6,8 +6,27 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva",
+			"dialog" : "ok but lowk I'm not your muse bro",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "sonic",
+			"dialog" : "hello I'm sonic and I go fast",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sonic",
+			"dialog" : "Homer reminds me of Doctor Eggman"
+		},
+		{	
+			"speaker" : "sonic",
+			"dialog" : "(insert what sonic's goodbye phrase is here)"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
